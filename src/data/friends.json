@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Maya Chen",
+    "picture": "/assets/friends/friend-1.jpg",
+    "email": "maya.chen@example.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": [
+      "college",
+      "travel buddy"
+    ],
+    "bio": "We met during our software engineering program and still trade travel plans, startup ideas, and book recommendations.",
+    "goal": 14,
+    "next_due_date": "2026-04-12"
+  },
+  {
+    "id": 2,
+    "name": "Liam Parker",
+    "picture": "/assets/friends/friend-2.jpg",
+    "email": "liam.parker@example.com",
+    "days_since_contact": 9,
+    "status": "almost due",
+    "tags": [
+      "work",
+      "design"
+    ],
+    "bio": "Former teammate from a product design sprint. We usually catch up about side projects and the latest gadgets.",
+    "goal": 10,
+    "next_due_date": "2026-04-17"
+  },
+  {
+    "id": 3,
+    "name": "Sofia Rahman",
+    "picture": "/assets/friends/friend-3.jpg",
+    "email": "sofia.rahman@example.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": [
+      "neighbor",
+      "coffee"
+    ],
+    "bio": "Our weekend coffee chats turned into a great friendship built around photography walks and local food spots.",
+    "goal": 12,
+    "next_due_date": "2026-04-24"
+  },
+  {
+    "id": 4,
+    "name": "Noah Bennett",
+    "picture": "/assets/friends/friend-4.jpg",
+    "email": "noah.bennett@example.com",
+    "days_since_contact": 22,
+    "status": "overdue",
+    "tags": [
+      "gym",
+      "accountability"
+    ],
+    "bio": "My longtime workout partner who always remembers birthdays and somehow finds the best brunch places afterward.",
+    "goal": 14,
+    "next_due_date": "2026-04-08"
+  },
+  {
+    "id": 5,
+    "name": "Ava Martinez",
+    "picture": "/assets/friends/friend-5.jpg",
+    "email": "ava.martinez@example.com",
+    "days_since_contact": 7,
+    "status": "almost due",
+    "tags": [
+      "community",
+      "volunteer"
+    ],
+    "bio": "We organize local volunteer events together and usually check in after each monthly community drive.",
+    "goal": 8,
+    "next_due_date": "2026-04-17"
+  },
+  {
+    "id": 6,
+    "name": "Ethan Roy",
+    "picture": "/assets/friends/friend-6.jpg",
+    "email": "ethan.roy@example.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": [
+      "music",
+      "close friend"
+    ],
+    "bio": "A close friend from high school. We still swap playlists and schedule short calls after new album releases.",
+    "goal": 10,
+    "next_due_date": "2026-04-23"
+  },
+  {
+    "id": 7,
+    "name": "Chloe Nguyen",
+    "picture": "/assets/friends/friend-7.jpg",
+    "email": "chloe.nguyen@example.com",
+    "days_since_contact": 11,
+    "status": "almost due",
+    "tags": [
+      "startup",
+      "mentor"
+    ],
+    "bio": "An early mentor who gives honest career advice and celebrates every win, no matter how small.",
+    "goal": 14,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 8,
+    "name": "Daniel Brooks",
+    "picture": "/assets/friends/friend-8.jpg",
+    "email": "daniel.brooks@example.com",
+    "days_since_contact": 1,
+    "status": "on-track",
+    "tags": [
+      "gaming",
+      "weekend"
+    ],
+    "bio": "We reconnect through multiplayer game nights and quick voice notes about what to play next.",
+    "goal": 7,
+    "next_due_date": "2026-04-22"
+  }
+]
