@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Maya Chen",
+    "picture": "/assets/friends/friend-1.jpg",
+    "email": "maya.chen@gmail.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": [
+      "college",
+      "travel buddy"
+    ],
+    "bio": "We met during our software engineering program and still trade travel plans, startup ideas, and book recommendations.",
+    "goal": 14,
+    "next_due_date": "2026-04-12"
+  },
+  {
+    "id": 2,
+    "name": "Liam Parker",
+    "picture": "/assets/friends/friend-2.jpg",
+    "email": "liam.parker@gmail.com",
+    "days_since_contact": 9,
+    "status": "almost due",
+    "tags": [
+      "work",
+      "design"
+    ],
+    "bio": "Former teammate from a product design sprint. We usually catch up about side projects and the latest gadgets.",
+    "goal": 10,
+    "next_due_date": "2026-04-17"
+  },
+  {
+    "id": 3,
+    "name": "Sofia Rahman",
+    "picture": "/assets/friends/friend-3.jpg",
+    "email": "sofia.rahman@gmail.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": [
+      "neighbor",
+      "coffee"
+    ],
+    "bio": "Our weekend coffee chats turned into a great friendship built around photography walks and local food spots.",
+    "goal": 12,
+    "next_due_date": "2026-04-24"
+  },
+  {
+    "id": 4,
+    "name": "Noah Bennett",
+    "picture": "/assets/friends/friend-4.jpg",
+    "email": "noah.bennett@gmail.com",
+    "days_since_contact": 22,
+    "status": "overdue",
+    "tags": [
+      "gym",
+      "accountability"
+    ],
+    "bio": "My longtime workout partner who always remembers birthdays and somehow finds the best brunch places afterward.",
+    "goal": 14,
+    "next_due_date": "2026-04-08"
+  },
+  {
+    "id": 5,
+    "name": "Ava Martinez",
+    "picture": "/assets/friends/friend-5.jpg",
+    "email": "ava.martinez@gmail.com",
+    "days_since_contact": 7,
+    "status": "almost due",
+    "tags": [
+      "community",
+      "volunteer"
+    ],
+    "bio": "We organize local volunteer events together and usually check in after each monthly community drive.",
+    "goal": 8,
+    "next_due_date": "2026-04-17"
+  },
+  {
+    "id": 6,
+    "name": "Ethan Roy",
+    "picture": "/assets/friends/friend-6.jpg",
+    "email": "ethan.roy@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": [
+      "music",
+      "close friend"
+    ],
+    "bio": "A close friend from high school. We still swap playlists and schedule short calls after new album releases.",
+    "goal": 10,
+    "next_due_date": "2026-04-23"
+  },
+  {
+    "id": 7,
+    "name": "Chloe Nguyen",
+    "picture": "/assets/friends/friend-7.jpg",
+    "email": "chloe.nguyen@gmail.com",
+    "days_since_contact": 11,
+    "status": "almost due",
+    "tags": [
+      "startup",
+      "mentor"
+    ],
+    "bio": "An early mentor who gives honest career advice and celebrates every win, no matter how small.",
+    "goal": 14,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 8,
+    "name": "Daniel Brooks",
+    "picture": "/assets/friends/friend-8.jpg",
+    "email": "daniel.brooks@gmail.com",
+    "days_since_contact": 1,
+    "status": "on-track",
+    "tags": [
+      "gaming",
+      "weekend"
+    ],
+    "bio": "We reconnect through multiplayer game nights and quick voice notes about what to play next.",
+    "goal": 7,
+    "next_due_date": "2026-04-22"
+  },
+  {
+  "id": 9,
+  "name": "Isabella Costa",
+  "picture": "/assets/friends/young-determined-armenian-curlyhaired-female-university-student-listen-carefully-asignment-look-confident-ready-task-cross-hands-chest-smiling-selfassured-standing-white-background.jpg",
+  "email": "isabella.costa@gmail.com",
+  "days_since_contact": 16,
+  "status": "overdue",
+  "tags": ["travel", "photography"],
+  "bio": "We met during a solo trip and stayed connected through our shared love for photography and storytelling.",
+  "goal": 12,
+  "next_due_date": "2026-04-10"
+},
+{
+  "id": 10,
+  "name": "Arjun Mehta",
+  "picture": "/assets/friends/bohemian-man-with-his-arms-crossed.jpg",
+  "email": "arjun.mehta@gmail.com",
+  "days_since_contact": 6,
+  "status": "on-track",
+  "tags": ["tech", "hackathons"],
+  "bio": "A friend from hackathons who always brings creative ideas and late-night coding energy to every project.",
+  "goal": 10,
+  "next_due_date": "2026-04-21"
+},
+{
+  "id": 11,
+  "name": "Emily Carter",
+  "picture": "/assets/friends/young-beautiful-girl-posing-black-leather-jacket-park.jpg",
+  "email": "emily.carter@gmail.com",
+  "days_since_contact": 13,
+  "status": "almost due",
+  "tags": ["book club", "writing"],
+  "bio": "We bonded over our love for writing and now share drafts, feedback, and reading lists regularly.",
+  "goal": 14,
+  "next_due_date": "2026-04-18"
+},
+{
+  "id": 12,
+  "name": "Omar Hassan",
+  "picture": "/assets/friends/young-bearded-man-with-striped-shirt.jpg",
+  "email": "omar.hassan@gmail.com",
+  "days_since_contact": 2,
+  "status": "on-track",
+  "tags": ["sports", "football"],
+  "bio": "We catch up through weekend football matches and quick chats about our favorite teams.",
+  "goal": 7,
+  "next_due_date": "2026-04-23"
+}
+]
